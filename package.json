@@ -52,7 +52,7 @@
         "rollup-plugin-typescript2": "^0.5.0",
         "typedoc": "^0.8.0",
         "typedoc-default-themes": "^0.5.0",
-        "typedoc-plugin-webdnn": "file:docs/template/typedoc/plugin",
+        "typedoc-plugin-webdnn": "file:./docs/template/typedoc/plugin",
         "typescript": "^2.6.2"
     }
 }
